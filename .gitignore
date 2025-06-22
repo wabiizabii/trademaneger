@@ -1,0 +1,6 @@
+# MQL5/MT5 compiled files
+*.ex5
+*.ex4
+
+# macOS specific files
+.DS_Store
